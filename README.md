@@ -1,5 +1,5 @@
 # Bastama_IBB_Web_Servis
- # Kullanımı
+   # Kullanımı
  
     using System;
     using System.Windows.Forms;
@@ -40,7 +40,9 @@
      Install-Package EbubekirBastama.IBBWebServis -Version 1.0.0.1
  
  # app.config Edit
-    app.config'i aşağıdaki kodlarla değiştirin.
+  
+  app.config'i aşağıdaki kodlarla değiştirin.
+   
     <?xml version="1.0" encoding="utf-8" ?>
     <configuration>
     <system.serviceModel>

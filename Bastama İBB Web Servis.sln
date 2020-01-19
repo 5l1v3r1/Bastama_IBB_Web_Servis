@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bastama İBB Web Servis", "Bastama İBB Web Servis\Bastama İBB Web Servis.csproj", "{923BA4AC-A548-44F2-98FF-8FAD6EAB0747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923BA4AC-A548-44F2-98FF-8FAD6EAB0747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923BA4AC-A548-44F2-98FF-8FAD6EAB0747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923BA4AC-A548-44F2-98FF-8FAD6EAB0747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923BA4AC-A548-44F2-98FF-8FAD6EAB0747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E687948-2712-48FD-B87E-B37701092528}
+	EndGlobalSection
+EndGlobal

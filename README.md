@@ -6,7 +6,7 @@
  # app.config Edit
     app.config'i aşağıdaki kodlarla değiştirin.
     <?xml version="1.0" encoding="utf-8" ?>
-<configuration>
+    <configuration>
     <system.serviceModel>
         <bindings>
             <basicHttpBinding>
@@ -42,5 +42,5 @@
                 binding="basicHttpBinding" bindingConfiguration="ibbSoap"
                 contract="iettcrm.ibbSoap" name="ibbSoap" />
         </client>
-    </system.serviceModel>
-</configuration>
+       </system.serviceModel>
+    </configuration>
